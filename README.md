@@ -1,6 +1,6 @@
 # House_price_estimation_system
 
-The code is used to forecast the price of house by using multiple linear regression algorithm with two independent variables which are area as x1 and number of rooms as x2 to find dependent variable as price.
+The code is used to forecast the price of house by using multiple linear regression algorithm with two independent variables which are area as x1 and number of rooms as x2 to find dependent variable price as y
 
 A csv file named House.csv, contains 545 rows with 4 columns which is used in the code to forecast the house price.
 
